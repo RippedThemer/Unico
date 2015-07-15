@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string-array name="fullchangelog">
+        <item>@array/important</item>
+        <item>@array/newstuff</item>
+        <item>@array/improvements</item>
+        <item>@array/fixes</item>
+    </string-array>
+
+    <string-array name="important">
+        <item>The most important:</item>
+        <item>Please don\'t forget to check out my other work.</item>
+    </string-array>
+
+    <string-array name="newstuff">
+        <item>New</item>
+        <item>50 new icons</item>
+    </string-array>
+
+    <string-array name="improvements">
+        <item>Improvements</item>
+        <item>Resized a couple of icons for better uniformity</item>
+    </string-array>
+
+    <string-array name="fixes">
+        <item>Fixes</item>
+        <item>Fixed multiple activities and icons for variants of apps(pro versions,stock apps, etc)</item>
+    </string-array>
+
+</resources>
